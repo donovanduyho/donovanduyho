@@ -2,5 +2,5 @@
 
 - M.S. Robotics and Autonomous Systems [@UCF](https://www.ucf.edu)
 - B.S. Computer Science '25 [@UCF](https://www.ucf.edu/)
-- Contact: donovanduyho@gmail.com
+- Contact: donhho@outlook.com
 
